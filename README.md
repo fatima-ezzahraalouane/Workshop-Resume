@@ -9,21 +9,31 @@ Un CV contient toujours des SECTIONS DE BASE et des SECTIONS FACULTATIVES.
 # 2- les sections de base sont : 
 
   1- Informations personnelles
+  
   2- Éducation
+  
   3- Expérience
+  
   4- Formation professionnelle
+  
   5- Affiliations professionnelles
+  
   6- Université/département/service professionnel
 
 # 3- les sections facultatives sont : 
 
   1- Compétences
+  
   2- Langues et voyages
+  
   3- Activités
+  
   4- Références
 
 # 4- Objectif d’apprentissage:
 
   1- Comprendre les bases d'HTML et sa structure de base.
+  
   2- Pratiquer la création de pages web simples en utilisant les balises HTML de base.
+  
   3- Expérimenter avec les différentes balises HTML.
